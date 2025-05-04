@@ -5,7 +5,7 @@ Bu repo, Dogal Dil Isleme dersi kapsamindaki 1. Odev icin hazirlanmistir. Odev, 
 ## Veri Seti
 
 *   **Kullanim Amaci:** Bu proje, genellikle musteri yorumlari, haber metinleri, sosyal medya gonderileri gibi Turkce metin verilerini islemek uzere tasarlanmistir. Veri seti, duygu analizi, konu modelleme, metin siniflandirma gibi dogal dil isleme gorevleri icin bir temel olusturabilir.
-*   **Kaynak ve Temin Etme:** Bu odev icin kullanilacak veri seti **ogrenci tarafindan** secilmelidir. Ornek olarak, projede referans alinan Kaggle not defterinde kullanilan `turkish-customer-reviews-for-binary-classification` gibi bir veri seti ([https://www.kaggle.com/datasets/ulkuarm/turkish-customer-reviews-for-binary-classification](https://www.kaggle.com/datasets/ulkuarm/turkish-customer-reviews-for-binary-classification)) veya benzeri Turkce metin iceren herhangi bir veri seti kullanilabilir.
+*   **Kaynak ve Temin Etme:** Bu odev icin kullanilacak veri seti **ogrenci tarafindan** secilmelidir. Ornek olarak, projede referans alinan Kaggle not defterinde kullanilan `turkish-customer-reviews-for-binary-classification` gibi bir veri seti ([https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari](https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari)) veya benzeri Turkce metin iceren herhangi bir veri seti kullanilabilir.
 *   **Yerlestirme:** Sectiginiz veri setini (genellikle bir `.csv` dosyasi) indirip projenin ana dizinindeki `veri/` klasorunun icine yerlestirmeniz gerekmektedir. Kod icerisindeki `01_veri_on_isleme.py` betiginde yer alan `HAM_VERI_DOSYASI` degiskenini, kendi dosya adiniza gore (ornegin `veri/benim_veri_setim.csv`) guncellemeniz gerekebilir.
 
 ## Kurulum
